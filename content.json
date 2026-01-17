@@ -1,0 +1,154 @@
+{
+  "content": [
+    {
+      "name": "YouRuinedIt",
+      "mainSwf": "YouRuinedIt.swf",
+      "icons": [
+        { "tag": "HEAD2HEAD", "value": "" },
+        { "tag": "WRITING", "value": "" },
+        { "tag": "TIME", "value": "15-20" },
+        { "tag": "PLAYERS", "value": "3-8" }
+      ],
+      "tagline":"INFO_TAGLINE_GAME_3",
+      "menu":"MENU_GAME_NAME_3",
+      "video":"YouRuinedIt",
+      "audio":"PICKER/MUSIC/Doominate",
+      "videoVolume": 1.0,
+      "enabled": true
+    },
+    {
+      "name": "MicGame",
+      "mainSwf": "MicGame.swf",
+      "icons": [
+        { "tag": "OUTLOUD", "value": "" },
+        { "tag": "HEAD2HEAD", "value": "" },
+        { "tag": "TIME", "value": "15-20" },
+        { "tag": "PLAYERS", "value": "2-8" }
+      ],
+      "tagline":"INFO_TAGLINE_GAME_4",
+      "menu":"MENU_GAME_NAME_4",
+      "video":"MicGame",
+      "audio":"PICKER/MUSIC/HearSay",
+      "videoVolume": 1.0,
+      "enabled": true
+    },
+    {
+      "name": "CookiesGame",
+      "mainSwf": "CookiesGame.swf",
+      "icons": [
+        { "tag": "WRITING", "value": "" },
+        { "tag": "DRAWING", "value": "" },
+        { "tag": "HEAD2HEAD", "value": "" },
+        { "tag": "TIME", "value": "15-20" },
+        { "tag": "PLAYERS", "value": "3-8" }
+      ],
+      "tagline":"INFO_TAGLINE_GAME_5",
+      "menu":"MENU_GAME_NAME_5",
+      "video":"CookiesGame",
+      "audio":"PICKER/MUSIC/CookieHaus",
+      "videoVolume": 1.0,
+      "enabled": true
+    },
+    {
+      "name": "DirtyDetectives",
+      "mainSwf": "DirtyDetectives.swf",
+      "icons": [
+        { "tag": "HIDDENID", "value": "" },
+        { "tag": "OUTLOUD", "value": "" },
+        { "tag": "TIME", "value": "15-20" },
+        { "tag": "PLAYERS", "value": "4-8" }
+      ],
+      "tagline":"INFO_TAGLINE_GAME_2",
+      "menu":"MENU_GAME_NAME_2",
+      "video":"DirtyDetectives",
+      "audio":"PICKER/MUSIC/Suspectives",
+      "videoVolume": 1.0,
+      "enabled": true
+    },
+    {
+      "name": "TriviaRPG",
+      "mainSwf": "TriviaRPG.swf",
+      "icons": [
+        { "tag": "TRIVIA", "value": "" },
+        { "tag": "TEAMS", "value": "" },
+        { "tag": "TIME", "value": "20-30" },
+        { "tag": "PLAYERS", "value": "1-6" }
+      ],
+      "tagline":"INFO_TAGLINE_GAME_1",
+      "menu":"MENU_GAME_NAME_1",
+      "video":"TriviaRPG",
+      "audio":"PICKER/MUSIC/LegendsOfTrivia",
+      "videoVolume": 1.0,
+      "enabled": true
+    },
+    {
+      "name": "News",
+      "mainSwf": "",
+      "icons": [],
+      "tagline":"",
+      "menu":"MENU_NEWS",
+      "video":"",
+      "audio":"",
+      "videoVolume": 1.0,
+      "enabled": true,
+      "isValid":"hasAnnouncements"
+    },
+    {
+      "name": "Settings",
+      "mainSwf": "",
+      "icons": [],
+      "tagline":"",
+      "menu":"MENU_SETTINGS",
+      "video":"",
+      "audio":"",
+      "videoVolume": 1.0,
+      "enabled": true
+    },
+    {
+      "name": "HowTo",
+      "mainSwf": "",
+      "icons": [],
+      "tagline":"",
+      "menu":"MENU_HOW_TO",
+      "video":"",
+      "audio":"",
+      "videoVolume": 1.0,
+      "enabled": true
+    },
+    {
+      "name": "ParentalControl",
+      "mainSwf": "",
+      "icons": [],
+      "tagline":"",
+      "menu":"MENU_PARENTAL_CONTROL",
+      "video":"",
+      "audio":"",
+      "videoVolume": 1.0,
+      "enabled": true
+    },
+    {
+      "name": "Exit",
+      "mainSwf": "",
+      "icons": [],
+      "tagline":"",
+      "menu":"EXIT",
+      "video":"",
+      "audio":"",
+      "videoVolume": 1.0,
+      "enabled": true,
+      "isValid":"needExitbutton"
+    },
+    {
+      "name": "Exit",
+      "mainSwf": "",
+      "icons": [],
+      "tagline":"",
+      "menu":"BACK",
+      "video":"",
+      "audio":"",
+      "videoVolume": 1.0,
+      "enabled": true,
+      "isValid":"!needExitbutton"
+    }
+  ]
+}
